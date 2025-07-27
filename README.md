@@ -24,8 +24,8 @@ A secure IoT communication system using Fog-Cloud architecture and Ring-LWE latt
 
 ### Run Order
 1. *Run Cloud Server* on one terminal/machine:
-   python CloudServer.py
-   python FogServer.py
-   python EdgeServer.py
+   -python CloudServer.py
+   -python FogServer.py
+   -python EdgeServer.py
    
 
